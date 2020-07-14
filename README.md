@@ -1,13 +1,23 @@
 # com-stripfilm
 
-Static site export for "stripfilm.com".
+Static site export for [stripfilm.com](https://stripfilm.com/).
+
+## Developer notes
+
+- Use modified and updated local version to continue.
+- Find & replace keywords to be aware of: `wpsho`, `placeholder`, `http://`, `offlinezip`, `http://1.gravatar`.
+- Remove duplicated `/**/page/1/index.html` paths from pages; `oyuncu`, `stripfilm-tagleri`, `sure`, `tag`, `tur`, `yil`, `yonetmen`.
+  - `rm -rf ./*/*/page`
+- `dram` category has a second page, add `/page/2/index.html` file to that category manually.
+- Remove `index.html` parst of all paths.
 
 ## Migration notes
 
-- Updated "yazarlar" page. (removed a name)
+- Updated "about" page. (removed a name)
 - Removed contact mails and related text.
 - Removed social media buttons.
 - All maill accounts are gone.
+- Trac removed completely. 
 
 ## Tools used
 
