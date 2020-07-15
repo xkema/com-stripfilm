@@ -5,7 +5,7 @@ Static site export for "stripfilm.com".
 ## Developer notes
 
 - Use modified and updated local version to continue.
-- Find & replace keywords to be aware of: `wpsho`, `placeholder`, `http://`, `offlinezip`.
+- Find & replace keywords to be aware of: `wpsho`, `placeholder`, `http://`, `offlinezip`, `http://1.gravatar`.
 - Remove duplicated `/**/page/1/index.html` paths from pages; `oyuncu`, `stripfilm-tagleri`, `sure`, `tag`, `tur`, `yil`, `yonetmen`.
   - `rm -rf ./*/*/page`
 
