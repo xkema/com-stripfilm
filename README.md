@@ -9,6 +9,7 @@ Static site export for "stripfilm.com".
 - Remove duplicated `/**/page/1/index.html` paths from pages; `oyuncu`, `stripfilm-tagleri`, `sure`, `tag`, `tur`, `yil`, `yonetmen`.
   - `rm -rf ./*/*/page`
 - `dram` category has a second page, add `/page/2/index.html` file to that category manually.
+- Remove `index.html` parst of all paths.
 
 ## Migration notes
 
