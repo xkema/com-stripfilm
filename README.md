@@ -1,6 +1,6 @@
 # com-stripfilm
 
-Static site export for "stripfilm.com".
+Static site export for [stripfilm.com](https://stripfilm.com/).
 
 ## Developer notes
 
