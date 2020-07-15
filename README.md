@@ -8,6 +8,7 @@ Static site export for "stripfilm.com".
 - Find & replace keywords to be aware of: `wpsho`, `placeholder`, `http://`, `offlinezip`, `http://1.gravatar`.
 - Remove duplicated `/**/page/1/index.html` paths from pages; `oyuncu`, `stripfilm-tagleri`, `sure`, `tag`, `tur`, `yil`, `yonetmen`.
   - `rm -rf ./*/*/page`
+- `Dram` category has a second page, add `/page/2/index.html` file to that category manually.
 
 ## Migration notes
 
