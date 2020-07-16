@@ -17,6 +17,7 @@ Static site export for [stripfilm.com](https://stripfilm.com/).
 - Removed contact mails and related text.
 - Removed social media buttons.
 - All maill accounts are gone.
+- Trac removed completely. 
 
 ## Tools used
 
