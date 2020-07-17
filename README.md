@@ -13,7 +13,7 @@ Static site export for [stripfilm.com](https://stripfilm.com/).
 
 ## Migration notes
 
-- Updated "yazarlar" page. (removed a name)
+- Updated "about" page. (removed a name)
 - Removed contact mails and related text.
 - Removed social media buttons.
 - All maill accounts are gone.
